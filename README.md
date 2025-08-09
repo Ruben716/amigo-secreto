@@ -1,16 +1,16 @@
-# 🎁 Amigo Secreto
+#  Amigo Secreto
 
 Aplicación web sencilla para organizar un sorteo de "Amigo Secreto".  
 Permite agregar nombres a una lista y luego seleccionar uno al azar como ganador.
 
-## 📂 Archivos del proyecto
+##  Archivos del proyecto
 
 - `index.html` → Estructura principal de la página.
 - `app.js` → Lógica en JavaScript para agregar nombres, mostrar la lista y sortear.
 - `style.css` → Estilos de la página.
 - `assets/` → Imágenes y recursos utilizados.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 1. **Agregar nombres**
    - El usuario escribe un nombre en el campo de texto.
