@@ -25,12 +25,12 @@ Permite agregar nombres a una lista y luego seleccionar uno al azar como ganador
 4. **Sortear amigo secreto**
    - Al presionar **"Sortear amigo"**, el sistema elige aleatoriamente un nombre de la lista y lo muestra en pantalla.
 
-## 📋 Requisitos
+##  Requisitos
 
 - Navegador web moderno (Chrome, Edge, Firefox, etc.)
 - No requiere instalación de software adicional ni servidor.
 
-## 📦 Instalación y uso
+##  Instalación y uso
 
 1. **Clonar el repositorio**
    ```bash
